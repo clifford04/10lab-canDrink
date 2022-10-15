@@ -2,7 +2,8 @@
 This python program  will ask for the users input and age, then will print out the years until they can drink and if they are older then 21 that they can drink.
 
 Drink responsibly everyone!
-=======
+ main
+
 # Read me: 
 
 # What the Software does:
@@ -26,3 +27,4 @@ We choose this license due to some specific clauses in the license agreement. Fi
 
 # Code of Conduct:
 We chose this code of conduct due to the fact that it has clear behavioral standards as well as good examples of unacceptable behavior that we would not want in our program. As well as we see the punishments for not following the standards to be very fair and good punishments. Also it welcomes a diverse community to contribute to this project.
+ main
